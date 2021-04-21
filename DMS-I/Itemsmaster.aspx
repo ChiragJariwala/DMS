@@ -37,7 +37,7 @@
 									</asp:Label>
 
 									<asp:Label ID="lblProdName" runat="server" Text="Product Name">
-									<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+									<asp:TextBox ID="txtProdName" runat="server"></asp:TextBox>
 									</asp:Label>
 
 
